@@ -1,0 +1,13 @@
+.style1 {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  text-align: center;
+  padding-top: 20px;
+  background: linear-gradient(to right, #2980b9, #6dd5fa, #ffffff);
+}
+
+.BG {
+  background-color: #ffffff;
+}
